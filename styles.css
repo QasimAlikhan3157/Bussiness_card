@@ -1,0 +1,21 @@
+img{
+    width: 200px;
+    margin-left: 5px;
+
+}
+/* .border{
+    border: 2px dotted darkcyan;
+} */
+.wrapper{
+    margin: 30px auto;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    background-color: aquamarine;
+    border-bottom:5px solid aqua ;
+    text-align: center;
+}
+.wrapper:hover{
+    background-color: violet;
+}
